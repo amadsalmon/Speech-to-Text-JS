@@ -1,2 +1,2 @@
-# Text-To-Speech-JS
-Text To Speech In 3 Lines Of JavaScript
+# Speech-to-Text in JavaScript
+Speech-to-Text In 3 Lines Of JavaScript
